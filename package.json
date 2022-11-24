@@ -1,0 +1,31 @@
+{
+  "name": "adventureland",
+  "version": "1.0.0",
+  "description": "CODE Documentation for Adventure Land MMORPG https://adventure.land",
+  "main": "rollup.config.js",
+  "directories": {
+    "src": "src",
+    "dist": "dist"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "glob": "^8.0.3",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoYungh/adventureland.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoYungh/adventureland/issues"
+  },
+  "homepage": "https://github.com/DiegoYungh/adventureland#readme"
+}
