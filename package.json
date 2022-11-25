@@ -2,7 +2,7 @@
   "name": "adventureland",
   "version": "1.0.0",
   "description": "CODE Documentation for Adventure Land MMORPG https://adventure.land",
-  "main": "rollup.config.js",
+  "main": "webpack.config.js",
   "directories": {
     "src": "src",
     "dist": "dist"

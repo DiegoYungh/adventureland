@@ -1,6 +1,5 @@
 // Overrides
-const logMessage = game_log;
-const setState = set_message;
+import {setState, logMessage} from 'src/globals';
 
 //
 var autoHeal=true

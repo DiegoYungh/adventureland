@@ -1,0 +1,1 @@
+(()=>{"use strict";((r,t=250)=>{setInterval((()=>{character.rip||is_moving(character)||r&&r()}),t)})((()=>{}))})();

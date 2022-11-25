@@ -6,3 +6,4 @@
  *  - Medium grade potion
  *  - High grade potion
  */
+export const usePotion = () => {}
